@@ -1,0 +1,7 @@
+E:\PROJECT\_Net\TypesClassRelation\TypesClassRelation\bin\Debug\TypesClassRelation.exe
+E:\PROJECT\_Net\TypesClassRelation\TypesClassRelation\bin\Debug\TypesClassRelation.pdb
+E:\PROJECT\_Net\TypesClassRelation\TypesClassRelation\obj\x86\Debug\TypesClassRelation.Form1.resources
+E:\PROJECT\_Net\TypesClassRelation\TypesClassRelation\obj\x86\Debug\TypesClassRelation.Properties.Resources.resources
+E:\PROJECT\_Net\TypesClassRelation\TypesClassRelation\obj\x86\Debug\TypesClassRelation.csproj.GenerateResource.Cache
+E:\PROJECT\_Net\TypesClassRelation\TypesClassRelation\obj\x86\Debug\TypesClassRelation.exe
+E:\PROJECT\_Net\TypesClassRelation\TypesClassRelation\obj\x86\Debug\TypesClassRelation.pdb

@@ -13,7 +13,7 @@ namespace TypesClassRelation
     /// себя одного или более сотрудников. На предприятии могут работать 
     /// сотрудники которые не пренадлежать ни одному из отделов, например директор
     /// </remarks>
-    public class Department
+    public class Department: Unit
     {
         private string name;
 
@@ -35,8 +35,15 @@ namespace TypesClassRelation
         {
             pEmployee.DepartmentItem = this;
             employees.Add(pEmployee);
-
-
         }
+
+        #region Unit Members
+
+        public int  getPersonCount()
+        {
+            return employees.Count;
+        }
+
+        #endregion
     }
 }

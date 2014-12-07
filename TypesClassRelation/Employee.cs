@@ -59,5 +59,24 @@ namespace TypesClassRelation
             get { return departmentItem; }
             set { departmentItem = value; }
         }
+
+        List<PastPosition> pastposition;
+
+        public void setPastPosition(PastPosition p)
+        {
+            pastposition.Add(p);
+        }
+
+        public List<PastPosition> getPastPosition()
+        {
+            return pastposition;
+        }
+
+        public void deletePastPosition(PastPosition p)
+        {
+            int index = pastposition.IndexOf(p);
+            pastposition.RemoveAt(index);
+        }
+
     }
 }

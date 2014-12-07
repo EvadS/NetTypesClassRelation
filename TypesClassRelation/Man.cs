@@ -10,14 +10,14 @@ namespace TypesClassRelation
     {
         private string name;
 
-        protected string Name
+        public  string Name
         {
             get { return name; }
             set { name = value; }
         }
         private string surname;
 
-        protected string Surname
+        public string Surname
         {
             get { return surname; }
             set { surname = value; }
